@@ -132,6 +132,6 @@ Office manages a collection of Employee objects.
 ---
 ##  Authors
 
-- Mariam Ankeeb - [mariam-ankeeb](https://github.com/mariam-ankeeb))
+- Mariam Ankeeb - [mariam-ankeeb](https://github.com/mariam-ankeeb)
 
 ---
